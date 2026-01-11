@@ -4,7 +4,7 @@ Allows you to add any executable file and run it at Windows startup.
 The main goal was to work around a bug that prevents **novideo_srgb** from launching with the latest NVIDIA drivers.
 This application is built using Electron (Chromium-based), which is why its size is relatively large. The important part is that it keeps NVAPI in a “warmed-up” state, allowing novideo_srgb to function properly.
 
-[Download latest release] (https://github.com/hadoooooouken/EXE-Launcher/releases/download/1.0.0/exe-launcher.zip)
+[Download latest release](https://github.com/hadoooooouken/EXE-Launcher/releases/download/1.0.0/exe-launcher.zip)
 
 ## Instructions
 
